@@ -1,4 +1,4 @@
-#  
+#  Evernote for macOS smart Tool - reminders and markdown support is the best Evernote for macOS tool, featuring reminders and markdown support. Safe, efficient, and optimized for
 
 
 
